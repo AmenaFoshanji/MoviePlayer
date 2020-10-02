@@ -28,7 +28,7 @@ MoviePlayer is an app that allows users to browse movies from the [The Movie Dat
 ## MoviePlayer  Part 1
 
 ### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after checking off completed user stories)
+`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. 
 
 #### REQUIRED (10pts)
 - [* ] (2pts) User sees an app icon on the home screen and a styled launch screen.
@@ -40,7 +40,7 @@ MoviePlayer is an app that allows users to browse movies from the [The Movie Dat
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `http://g.recordit.co/dhA5ZlBXgE.gif`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `http://g.recordit.co/dhA5ZlBXgE.gif`. Make sure the gif actually renders and animates when viewing this README. 
 
 <img src="http://g.recordit.co/dhA5ZlBXgE.gif" width=250><br>
 
